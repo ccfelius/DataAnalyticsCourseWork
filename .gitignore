@@ -1,0 +1,7 @@
+# useless files
+
+*.db
+*.xml
+.idea/*
+.ipynb_checkpoints/*
+.spyproject/*
